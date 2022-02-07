@@ -1,0 +1,13 @@
+{
+    "name": "mossab/random-string-generate",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mossab",
+            "email": "mkobisy@shaadoow.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
